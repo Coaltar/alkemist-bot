@@ -1,0 +1,5 @@
+{
+  "token": "[your application token]",
+  "clientId": "[application client id]",
+  "guildId": "[guild id for development commands]"
+}

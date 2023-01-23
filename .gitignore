@@ -1,0 +1,14 @@
+# modules
+node_modules/
+
+# secrets and notes
+config.json
+src/config.json
+notes.md
+
+
+# secrets
+config.js
+
+#old scraps
+scraps/*
